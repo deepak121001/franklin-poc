@@ -1,0 +1,9 @@
+.c-accordion {
+  list-style: none;
+}
+.c-accordion li ul {
+  display: none;
+}
+.c-accordion li.is-active ul {
+  display: block;
+}
